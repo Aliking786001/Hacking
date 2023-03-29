@@ -1,0 +1,2 @@
+# Hacking
+Not illegal
